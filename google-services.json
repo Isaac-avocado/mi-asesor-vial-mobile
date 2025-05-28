@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744389788849",
+    "project_id": "mi-asesor-vial-3ibkv",
+    "storage_bucket": "mi-asesor-vial-3ibkv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744389788849:android:36c21bd1c6c8d955f58e90",
+        "android_client_info": {
+          "package_name": "com.mi_asesor_vial.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEyLXqeKjbcTsAJZyJBTNq78e4R6XAzzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
