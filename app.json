@@ -27,12 +27,12 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "EXPO_PUBLIC_FIREBASE_API_KEY": "AIzaSyBWZPwT9w-TiYUjGkwUq05od2SNM6jQaAI",
+      "EXPO_PUBLIC_FIREBASE_API_KEY": "AIzaSyBEyLXqeKjbcTsAJZyJBTNq78e4R6XAzzc",
       "EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN": "mi-asesor-vial-3ibkv.firebaseapp.com",
       "EXPO_PUBLIC_FIREBASE_PROJECT_ID": "mi-asesor-vial-3ibkv",
       "EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET": "mi-asesor-vial-3ibkv.firebasestorage.app",
       "EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "744389788849",
-      "EXPO_PUBLIC_FIREBASE_APP_ID": "1:744389788849:web:b38f6a9ec5dfb6bef58e90"
+      "EXPO_PUBLIC_FIREBASE_APP_ID": "1:744389788849:android:36c21bd1c6c8d955f58e90"
     }
   }
 }
